@@ -1,3 +1,3 @@
 # html_css
- Estudo de HTML + CSS
- fazendo testes no Git e na maquina virtual
+ Estudo de HTML + CSS - Curso em Video
+ fazendo testes no Git
